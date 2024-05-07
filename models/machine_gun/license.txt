@@ -1,0 +1,11 @@
+Model Information:
+* title:	LMG
+* source:	https://sketchfab.com/3d-models/lmg-8c24d7374ea64bdab1c30f49c69d5ed8
+* author:	DJMaesen (https://sketchfab.com/bumstrum)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "LMG" (https://sketchfab.com/3d-models/lmg-8c24d7374ea64bdab1c30f49c69d5ed8) by DJMaesen (https://sketchfab.com/bumstrum) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
